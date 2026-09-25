@@ -1,16 +1,18 @@
-## Hi there 👋
+## Team Projects
 
-<!--
-**RD4ik/RD4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗺️ Miras — Legends Nearby
 
-Here are some ideas to get you started:
+Location-based mobile game inspired by Tatar legends, developed as a team project for a hackathon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My frontend contribution:**
+- developed mobile UI and responsive layouts;
+- implemented character encounter screens;
+- worked on the AR scanning flow;
+- developed battle and character screens;
+- implemented the partner boss demo;
+- worked with application state and frontend integrations;
+- added and maintained frontend tests.
+
+**Stack:** React, TypeScript, Zustand, React Router, Supabase, Leaflet, PixiJS, Playwright.
+
+🔗 [View project on GitHub](https://github.com/pounceinwindow/Miras)
