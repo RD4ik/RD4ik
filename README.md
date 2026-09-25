@@ -1,4 +1,4 @@
-# Привет, я radrik 👋
+# Привет, я radrik
 
 Frontend-разработчик. Основной стек — React и TypeScript.
 
