@@ -1,18 +1,84 @@
-## Team Projects
+# Привет, я Радрик 👋
 
-### 🗺️ Miras — Legends Nearby
+Frontend-разработчик. Основной стек — React и TypeScript.
 
-Location-based mobile game inspired by Tatar legends, developed as a team project for a hackathon.
+## Технологии
 
-**My frontend contribution:**
-- developed mobile UI and responsive layouts;
-- implemented character encounter screens;
-- worked on the AR scanning flow;
-- developed battle and character screens;
-- implemented the partner boss demo;
-- worked with application state and frontend integrations;
-- added and maintained frontend tests.
+- React
+- TypeScript
+- JavaScript
+- HTML / CSS
+- Zustand
+- REST API
+- Git
 
-**Stack:** React, TypeScript, Zustand, React Router, Supabase, Leaflet, PixiJS, Playwright.
+## Обо мне
 
-🔗 [View project on GitHub](https://github.com/pounceinwindow/Miras)
+Разрабатываю веб-приложения и интерактивные пользовательские интерфейсы.
+
+Есть опыт как самостоятельной, так и командной разработки: учебные проекты, собственные проекты и MVP для хакатонов.
+
+## Основные проекты
+
+### 🎓 Edu Map
+
+Frontend-приложение для визуализации образовательных программ и учебных траекторий в виде интерактивного графа.
+
+**Что реализовано:**
+- интерфейс на React + TypeScript;
+- интерактивный граф курсов и уроков;
+- маршрутизация между экранами;
+- анимации интерфейса;
+- drag-and-drop элементы;
+- переиспользуемые UI-компоненты.
+
+**Стек:** React, TypeScript, React Router, GSAP, React Diagrams.
+
+🔗 [Репозиторий](https://github.com/RD4ik/edu-map-frontend)
+
+---
+
+### 🗺️ Miras — легенды рядом
+
+Командный хакатонный проект — мобильная location-based игра, посвящённая татарским легендам и культуре.
+
+**Мой вклад во frontend:**
+- разработка мобильного интерфейса и адаптивной вёрстки;
+- реализация экранов персонажей;
+- работа над сценарием AR-сканирования;
+- разработка интерфейсов боёв;
+- реализация экранов взаимодействия с персонажами;
+- разработка демо партнёрского босса;
+- работа с состоянием приложения и frontend-интеграциями;
+- добавление и поддержка frontend-тестов.
+
+**Стек:** React, TypeScript, Zustand, React Router, Supabase, Leaflet, PixiJS, Playwright.
+
+🔗 [Командный репозиторий](https://github.com/pounceinwindow/Miras)
+
+---
+
+### 💻 Закрывающий тег
+
+Адаптивный frontend-проект с упором на CSS-анимации, SVG и интерактивные элементы интерфейса.
+
+**Что реализовано:**
+- адаптивная вёрстка;
+- CSS-анимации;
+- интерактивные элементы;
+- SVG;
+- модальное окно;
+- пользовательские состояния элементов.
+
+**Стек:** HTML, CSS, JavaScript, SVG.
+
+🔗 [Репозиторий](https://github.com/RD4ik/zakrivayuschiy-teg-ad)
+
+## Достижения
+
+- 🏆 1-е место на хакатоне в составе команды
+- 🏆 Финалист и 4-е место на Хакатон.БУ
+
+## Контакты
+
+GitHub: [@RD4ik](https://github.com/RD4ik)
